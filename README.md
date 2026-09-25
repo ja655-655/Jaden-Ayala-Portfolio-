@@ -41,9 +41,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/d1b1b01b-ae65-4292-953c-7e5a41020197/linked_in_profile" target="_blank">
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_v.2-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+</a>
+
 
 </div>
 
