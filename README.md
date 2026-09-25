@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | IDS         | SOC Automation Lab|
-| Incident Response Planning and Execution      | <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab">NIST Incident Response Lab</a>|
+| Incident Response Planning and Execution      | <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab-">NIST Incident Response Lab</a>|
 | Brute force                  | SOC Automation Lab|
 | Internal Audit  | SOC Automation Lab|
 
@@ -48,5 +48,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab">NIST Incident Response Lab</a>
+- <a href="https://github.com/ja655-655/NIST-Incident-Response-Lab-">NIST Incident Response Lab</a>
 - SOC Automation Project
